@@ -1,0 +1,3 @@
+{
+"directoriesToDelete": [ "/etc/ew/installed", "/etc/ew/packages.json", "/etc/ew/ewvers", "/etc/ew", "/usr/bin/ew" ]
+}

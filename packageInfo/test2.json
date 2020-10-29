@@ -1,0 +1,4 @@
+{
+"directoriesToDelete": [ "/tmp/ewtest2" ],
+  "depends": [ "test" ]
+}
