@@ -3,5 +3,7 @@
   "test": "https://acetaminophen.me/ewsite/packages/test.ew.tar.gz",
   "test2": "https://acetaminophen.me/ewsite/packages/test2.ew.tar.gz",
   "test3": "https://acetaminophen.me/ewsite/packages/test3.ew.tar.gz",
+  "test4":
+  "https://acetaminophen.me/ewsite/packages/test4.ew.tar.gz",
   "EwPm": "https://ewsite.mattstar45.repl.co/packages/ewpm.ew.tar.gz"
 }
